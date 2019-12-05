@@ -1,0 +1,10 @@
+# data/ folder
+data/**
+!data/.gitkeep
+
+# misc/ folder
+misc/**
+!misc/.gitkeep
+
+# Jupyter Lab temporary backup files
+.ipynb_checkpoints/
