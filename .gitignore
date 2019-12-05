@@ -1,6 +1,6 @@
-# data/ folder
-data/**
-!data/.gitkeep
+# data/flower_images folder
+data/flower_images/**
+!data/flower_images/.gitkeep
 
 # misc/ folder
 misc/**
